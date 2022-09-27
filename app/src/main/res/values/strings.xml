@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice9</string>
+    <string name="fio">Введите фио:</string>
+    <string name="age">Введите возраст:</string>
+    <string name="sex">Введите пол:</string>
+    <string name="phoneNumber">Введите номер телефона:</string>
+    <string name="email">Введите адрес эл.почты:</string>
+    <string name="next">Далее</string>
+    <string name="man">Мужчина</string>
+    <string name="woman">Женщина</string>
+</resources>
